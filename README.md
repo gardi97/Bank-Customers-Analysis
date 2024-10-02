@@ -1,6 +1,8 @@
 # Analysis of the customers of a bank
 
-The query SQL contains:
+The aim of this educational project is to analyse the database of a bank using SQL
+
+The query contains:
 - Age
 - Number of outgoing transactions on all accounts
 - Number of incoming transactions on all accounts
